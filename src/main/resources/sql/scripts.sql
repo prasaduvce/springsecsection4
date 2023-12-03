@@ -1,4 +1,4 @@
-create database eazybankl
+create database eazybank;
 
 use eazybank;
 
